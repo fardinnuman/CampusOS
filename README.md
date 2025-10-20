@@ -67,9 +67,9 @@ everything they need in **a single and organized dashboard**
 
 ---
 
-## 🔎 Dashboard Preview
+## 🔎 Preview (Log In Menu & Dashboard)
 
-<div align="center">
+![Alt text](https://github.com/fardinnuman/CampusOS/blob/main/mockup%20sketches/log%20in%20menu.png)
 
 ![Alt text](https://github.com/fardinnuman/CampusOS/blob/main/mockup%20sketches/main%20interface.png)
 
